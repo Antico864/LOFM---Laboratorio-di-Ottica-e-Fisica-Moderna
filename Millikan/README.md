@@ -16,7 +16,7 @@ Il programma accetta in input un file così strutturato: ⋅⋅
 | C_1           | sigma_C_0     |
 | ...           | ...           |
 
-⋅⋅Restituisce il valore della carica che minimizza lo scarto quadratico e l'errore associato a questo valore. ⋅⋅
+  Restituisce il valore della carica che minimizza lo scarto quadratico e l'errore associato a questo valore.   
   Inoltre, produce un grafico dello scarto quadratico della distribuzione inserita.   
-  Il file datiprof.txt è fatto apposta per testare il buon funzionamento del programma: se tutto va bene si dovrebbe ottenere una parabola abbastanza perfetta e un valore della carica di circa _e_. ••
-••Il file MyDataTrue contiene i dati sperimentali che io, turbo e sick luke abbiamo rilevato perdendo la vista sui banchi del labo. Pertanto il file è read-only. 
+  Il file datiprof.txt è fatto apposta per testare il buon funzionamento del programma: se tutto va bene si dovrebbe ottenere una parabola abbastanza perfetta e un valore della carica di circa _e_.   
+  Il file MyDataTrue contiene i dati sperimentali che io, turbo e sick luke abbiamo rilevato perdendo la vista sui banchi del labo. Pertanto il file è read-only. 
